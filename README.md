@@ -1,7 +1,7 @@
 # Biodiversity Mapping & Eco-Trail Web App — New Forest
 🚀 **Live Demo:** https://work4estolondon-hash.github.io/newforest-eco-trail-webapp/
 
-<img src="assets/images/eco-trail-concept.png" width="100%"/>
+<img src="assets/images/eco-trail-concept.peg" width="100%"/>
 
 ---
 
